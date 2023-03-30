@@ -5,4 +5,4 @@ Firstly, I have used SQL queries to process raw data and create a relational dat
 # Tech-Stack Used:-
 I have used “MySQL Server 8.0.32” for locally hosting the database and “MySQL Workbench 8.0.24” as an interface for SQL query editor. It was easy to work with databases and better visualization.
 # Link to detail Report
-https://medium.com/@arpan.17091999/project-description-aed37cbd1d7f?source=friends_link&sk=c6888cee57ce1649611d787c6df644db
+https://medium.com/@Arpan_sharma/project-description-aed37cbd1d7f
